@@ -29,3 +29,16 @@ State Management.
 2. Inisiasi database ke dalam mysql
 3. Buka text editor dan atur nama database sesuai dengan nama table yang di inisiasi
 4. Jalankan demo web pada localhost
+
+
+#Hosting Web
+1. langkah langkah hosting web adalah sebagai berikut :
+    - pilih hosting yang berbayar ataupun gratis sesuai dengan kebutuhan
+    - mengatur DNS
+    - upload file yang dibutuhkan
+    - atur database pada web hosting
+    - memantau serta mengelola kinerja website yang di hosting
+
+2. menggunakan 000webhost karena gratis dan support untuk php serta input database
+3. mungkin dengan menerapkan konfigurasi keamanan yang tepat pada server, seperti firewall yang membatasi akses yang tidak perlu dan memantau aktivitas mencurigakan
+4. maaf pak, saya gagal untuk hosting web dikarenakan terhambat saat melakukan upload file melalui FTP, maupun upload file manual pada file manager web hosting yang belum bisa saya solve
