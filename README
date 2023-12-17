@@ -1,26 +1,30 @@
-# UAS PEMROGRAMAN WEB
-//==============================\\
-## Fatkhan Aziez Suffi
-## 120140181
-//==============================\\
-## Deskripsi
+=======UAS PEMROGRAMAN WEB=======
 
-## Fitur Utama
+//==============================\\
+=======Fatkhan Aziez Suffi=======
+============120140181============
+\\==============================//
 
-- **Fitur 1:** Client-side programming.
+============Deskripsi============
+Web untuk mengatur inventory barang
+
+===========Fitur Utama===========
+#1
 - terdapat tampilan input Nama,NIM,Checkbox untuk mengisi inventory
 - di terapkan dan diproses pada JS dan di proses pada PHP
-- **Fitur 2:** Server-side programming.
+
+#2
 - berhasil menginputkan data menggunakan $_POST atau $_GET yang kemudian jika berhasil di tampilkan pada layar
-- **Fitur 3:** Database Management
+
+#3
 - database menggunakan MySQL
 - manipulasi data untuk menambahkan data
-- **Fitur 4:** State Management.
+
+#4
+State Management.
 
 ## Instalasi
-
 ### Langkah-langkah Instalasi
-
 1. Git Clone
 2. Inisiasi database ke dalam mysql
 3. Buka text editor dan atur nama database sesuai dengan nama table yang di inisiasi
