@@ -1,0 +1,27 @@
+# UAS PEMROGRAMAN WEB
+//==============================\\
+## Fatkhan Aziez Suffi
+## 120140181
+//==============================\\
+## Deskripsi
+
+## Fitur Utama
+
+- **Fitur 1:** Client-side programming.
+- terdapat tampilan input Nama,NIM,Checkbox untuk mengisi inventory
+- di terapkan dan diproses pada JS dan di proses pada PHP
+- **Fitur 2:** Server-side programming.
+- berhasil menginputkan data menggunakan $_POST atau $_GET yang kemudian jika berhasil di tampilkan pada layar
+- **Fitur 3:** Database Management
+- database menggunakan MySQL
+- manipulasi data untuk menambahkan data
+- **Fitur 4:** State Management.
+
+## Instalasi
+
+### Langkah-langkah Instalasi
+
+1. Git Clone
+2. Inisiasi database ke dalam mysql
+3. Buka text editor dan atur nama database sesuai dengan nama table yang di inisiasi
+4. Jalankan demo web pada localhost
