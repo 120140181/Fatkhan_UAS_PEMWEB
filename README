@@ -10,7 +10,7 @@ Web untuk mengatur inventory barang
 
 ===========Fitur Utama===========
 #1
-- terdapat tampilan input Nama,NIM,Checkbox untuk mengisi inventory
+- terdapat tampilan input Nama Barang, Jumlah, Jenis, Tanggal masuk untuk mengisi inventory
 - di terapkan dan diproses pada JS dan di proses pada PHP
 
 #2
